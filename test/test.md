@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Md.+Minhaj+Rowfun+Rabbi+Anik;CTF+Player;Competitive+Programmer;Software+%26+IoT+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Problem+Solver;Embedded+Systems+Developer;CTF+Player;Automation+Specialist;Competitive+Programmer;Software+%26+IoT+Engineer" />
 </h1>
 
 <!-- Rainbow Divider -->
@@ -14,7 +14,7 @@
 
 ---
 
-## 🖥️ Initiating Mad Scientist Terminal...
+## 🖥️ Initiating Terminal...
 
 ```bash
 $ whoami
@@ -33,7 +33,6 @@ $ status
 Researching. Building. Breaking. Securing.
 
 $ profile
-name: "Md. Minhaj Rowfun Rabbi Anik"
 university: "American International University Bangladesh (AIUB)"
 degree: "BSc in Computer Science & Engineering"
 interests:
