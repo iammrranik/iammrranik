@@ -20,14 +20,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammrranik&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrranik&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iammrranik&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrranik&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
 
 ### 📜 Certified Expertise
-* [cite_start]**CCNA & DevNet Associate:** Skilled in Enterprise Networking, Security, and Infrastructure Automation.
+* [cite_start]**CCNA & DevNet Associate:** Skilled in Enterprise Networking, Security, and Infrastructure Automation[cite: 16, 17, 24].
 * [cite_start]**Network Security Specialist:** Expertise in Access Control Lists (ACL), Zone-Based Policy Firewalls, and Cryptography[cite: 6, 7, 8].
 * [cite_start]**Competitive Programmer:** Enthusiastic solver of complex algorithmic problems and active CTF Player[cite: 21, 22].
 
@@ -43,4 +43,4 @@
 </p>
 
 ---
-[cite_start]<p align="center"><i>"Applying knowledge to create impactful solutions." [cite: 25]</i></p>
+[cite_start]<p align="center"><i>"Applying knowledge to create impactful solutions[cite: 25]."</i></p>
