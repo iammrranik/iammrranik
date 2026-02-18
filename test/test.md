@@ -1,6 +1,6 @@
 <!-- 🌈 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Mad%20the%20Scientist&fontSize=60&fontAlignY=35&animation=twinkling&color=0:00F5A0,25:00D9F5,50:7F00FF,75:FF00FF,100:00F5A0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Md.%20Minhaj%20Rowfun%20Rabbi%20Anik&fontSize=60&fontAlignY=35&animation=twinkling&color=0:00F5A0,25:00D9F5,50:7F00FF,75:FF00FF,100:00F5A0" />
 </p>
 
 <h1 align="center">
@@ -76,24 +76,38 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,javascript,typescript,php" />
 </p>
 
 <p align="center">
-  <span style="color:#FF0000">C</span> • <span style="color:#FF7F00">C++</span> • <span style="color:#FFFF00">Java</span> • <span style="color:#00FF00">C#</span> • <span style="color:#00F5A0">Python</span>
+  <span style="color:#FF0000">C</span> • 
+  <span style="color:#FF7F00">C++</span> • 
+  <span style="color:#FFFF00">Java</span> • 
+  <span style="color:#00FF00">C#</span> • 
+  <span style="color:#00F5A0">Python</span> • 
+  <span style="color:#00D9F5">JavaScript</span> • 
+  <span style="color:#1E90FF">TypeScript</span> • 
+  <span style="color:#7F00FF">PHP</span>
 </p>
+
+
 
 ---
 
 ## 🌐 Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,spring,django" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,spring,django,bootstrap" />
 </p>
 
 <p align="center">
-  <span style="color:#FF0000">React</span> • <span style="color:#00F5A0">.NET</span> • <span style="color:#00D9F5">Spring Boot</span> • <span style="color:#7F00FF">Django</span>
+  <span style="color:#FF0000">React</span> • 
+  <span style="color:#00F5A0">.NET</span> • 
+  <span style="color:#00D9F5">Spring Boot</span> • 
+  <span style="color:#7F00FF">Django</span> • 
+  <span style="color:#7952B3">Bootstrap</span>
 </p>
+
 
 ---
 
