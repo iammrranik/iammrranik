@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Md.+Minhaj+Rowfun+Rabbi+Anik;Cybersecurity+Researcher;CTF+Player+%7C+Competitive+Programmer;Software+%26+IoT+Engineer" />
 </h1>
 
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
+</p>
+
 ---
 
 ## 🖥️ Initiating Mad Scientist Terminal...
@@ -39,17 +44,32 @@ interests:
 mission: "Madness fuels innovation. Precision secures it."
 ```
 
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
+</p>
+
 ---
 
 ## 👨‍🔬 About Me
 
-Enthusiastic CSE undergraduate at AIUB deeply immersed in cybersecurity, competitive programming, and IoT systems.
+<p align="center">
+  <span style="color:#FF0000">Enthusiastic</span> CSE undergraduate at AIUB deeply immersed in <span style="color:#00F5A0">cybersecurity</span>, <span style="color:#00D9F5">competitive programming</span>, and <span style="color:#7F00FF">IoT systems</span>.
+</p>
 
-I thrive on solving complex algorithmic challenges and building secure, practical applications. My CCNA and DevNet certifications reinforce a strong networking and security foundation.
+<p align="center">
+  I thrive on solving <span style="color:#FF00FF">complex algorithmic challenges</span> and building <span style="color:#00F5A0">secure, practical applications</span>.  
+  My <span style="color:#00D9F5">CCNA</span> and <span style="color:#7F00FF">DevNet certifications</span> reinforce a strong networking and security foundation.
+</p>
 
-Passionate about continuous learning and contributing to innovative, impactful technology solutions.
+<p align="center">
+  Passionate about <span style="color:#FF7F00">continuous learning</span> and contributing to <span style="color:#FFFF00">innovative, impactful technology solutions</span>.
+</p>
 
----
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
+</p>
 
 # 🛠️ Technical Skills
 
@@ -60,7 +80,7 @@ Passionate about continuous learning and contributing to innovative, impactful t
 </p>
 
 <p align="center">
-  C • C++ • Java • C# • Python
+  <span style="color:#FF0000">C</span> • <span style="color:#FF7F00">C++</span> • <span style="color:#FFFF00">Java</span> • <span style="color:#00FF00">C#</span> • <span style="color:#00F5A0">Python</span>
 </p>
 
 ---
@@ -72,7 +92,7 @@ Passionate about continuous learning and contributing to innovative, impactful t
 </p>
 
 <p align="center">
-  React • .NET • Spring Boot • Django
+  <span style="color:#FF0000">React</span> • <span style="color:#00F5A0">.NET</span> • <span style="color:#00D9F5">Spring Boot</span> • <span style="color:#7F00FF">Django</span>
 </p>
 
 ---
@@ -85,7 +105,7 @@ Passionate about continuous learning and contributing to innovative, impactful t
 </p>
 
 <p align="center">
-  Arduino • Raspberry Pi • ESP32
+  <span style="color:#FF0000">Arduino</span> • <span style="color:#00F5A0">Raspberry Pi</span> • <span style="color:#00D9F5">ESP32</span>
 </p>
 
 ---
@@ -97,7 +117,7 @@ Passionate about continuous learning and contributing to innovative, impactful t
 </p>
 
 <p align="center">
-  Linux • Bash • Windows
+  <span style="color:#FF7F00">Linux</span> • <span style="color:#FFFF00">Bash</span> • <span style="color:#00FF00">Windows</span>
 </p>
 
 ---
@@ -108,9 +128,18 @@ Passionate about continuous learning and contributing to innovative, impactful t
   <img src="https://skillicons.dev/icons?i=cisco,pfsense" />
 </p>
 
-Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Network Security • CTF
+<p align="center">
+  <span style="color:#00F5A0">Access Control List (ACL)</span> • 
+  <span style="color:#00D9F5">Zone-Based Policy Firewall</span> • 
+  <span style="color:#7F00FF">Cryptography</span> • 
+  <span style="color:#FF00FF">Network Security</span> • 
+  <span style="color:#FF7F00">CTF</span>
+</p>
 
----
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
+</p>
 
 ## 🐍 Contribution Mutation
 
@@ -135,7 +164,10 @@ Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Ne
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammrranik&theme=radical" />
 </p>
 
----
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
+</p>
 
 ## 📜 Certifications
 
@@ -146,13 +178,20 @@ Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Ne
   <img src="https://img.shields.io/badge/IT%20Essentials-FF00FF?style=for-the-badge"/>
 </p>
 
-BSc in Computer Science & Engineering
+<p align="center">
+  Cisco CCNA • Cisco DevNet • Cisco Network Security • Cisco IT Essentials
+</p>
 
 ---
 
 ## 🌍 Languages
 
-Bengali (Native) • English (Professional Working) • Hindi (Limited Working) • Arabic (Elementary)
+<p align="center">
+  <span style="color:#FF0000">Bengali</span> (Native) • 
+  <span style="color:#00F5A0">English</span> (Professional Working) • 
+  <span style="color:#00D9F5">Hindi</span> (Limited Working) • 
+  <span style="color:#7F00FF">Arabic</span> (Elementary)
+</p>
 
 ---
 
@@ -182,8 +221,9 @@ Bengali (Native) • English (Professional Working) • Hindi (Limited Working) 
 
 ---
 
+<!-- BIG RAINBOW NEON QUOTE -->
 <p align="center">
-  <b>"Madness fuels innovation. Precision secures it."</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=2000&color=FF00FF,00F5A0,00D9F5,7F00FF,FFFF00&center=true&width=800&lines=Madness+fuels+innovation.;Precision+secures+it." />
 </p>
 
 ---
