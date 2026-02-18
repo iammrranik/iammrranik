@@ -1,6 +1,6 @@
-<!-- 🌈 Rainbow Animated Header -->
+<!-- 🌈 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Mad%20the%20Scientist&fontSize=55&fontAlignY=35&animation=blinking&color=gradient&customColorList=0,2,2,5,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Mad%20the%20Scientist&fontSize=55&fontAlignY=35&animation=fadeIn&color=0:00F5A0,50:00D9F5,100:7F00FF" />
 </p>
 
 <h1 align="center">🧪 Md. Minhaj Rowfun Rabbi Anik</h1>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-⚡ Engineering Secure Systems &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 Solving Algorithms &nbsp;&nbsp;|&nbsp;&nbsp; 🔬 Cyber Experiments
+⚡ Secure Systems &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 Algorithms &nbsp;&nbsp;|&nbsp;&nbsp; 🔬 Cyber Experiments
 </p>
 
 ---
@@ -24,21 +24,25 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/iammrranik">
-    <img src="https://img.shields.io/badge/Codeforces-iammrranik-orange?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-iammrranik-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics (Stable Summary Cards)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammrranik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammrranik&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammrranik&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrranik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammrranik&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammrranik&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammrranik&theme=tokyonight" />
 </p>
 
 ---
@@ -56,28 +60,11 @@
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="60"/><br/>
-  <b>C</b>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" width="60"/><br/>
-  <b>C++</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="60"/><br/>
-  <b>Java</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs" width="60"/><br/>
-  <b>C#</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="60"/><br/>
-  <b>Python</b>
+  C &nbsp;&nbsp;•&nbsp;&nbsp; C++ &nbsp;&nbsp;•&nbsp;&nbsp; Java &nbsp;&nbsp;•&nbsp;&nbsp; C# &nbsp;&nbsp;•&nbsp;&nbsp; Python
 </p>
 
 ---
@@ -85,23 +72,11 @@
 ## 🌐 Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="60"/><br/>
-  <b>React</b>
+  <img src="https://skillicons.dev/icons?i=react,dotnet,spring,django" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="60"/><br/>
-  <b>.NET</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring" width="60"/><br/>
-  <b>Spring Boot</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django" width="60"/><br/>
-  <b>Django</b>
+  React &nbsp;&nbsp;•&nbsp;&nbsp; .NET &nbsp;&nbsp;•&nbsp;&nbsp; Spring Boot &nbsp;&nbsp;•&nbsp;&nbsp; Django
 </p>
 
 ---
@@ -109,21 +84,12 @@
 ## 🔐 Systems & Security
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" width="60"/><br/>
-  <b>Linux</b>
+  <img src="https://skillicons.dev/icons?i=linux,bash,windows" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash" width="60"/><br/>
-  <b>Bash</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" width="60"/><br/>
-  <b>Windows</b>
-</p>
-
-<p align="center">
+  Linux &nbsp;&nbsp;•&nbsp;&nbsp; Bash &nbsp;&nbsp;•&nbsp;&nbsp; Windows  
+  <br/><br/>
   🔐 CCNA &nbsp;|&nbsp; DevNet &nbsp;|&nbsp; Firewalls &nbsp;|&nbsp; Cryptography &nbsp;|&nbsp; CTF
 </p>
 
@@ -138,5 +104,5 @@
 ---
 
 <p align="center">
-<i style="color:violet;">"Madness fuels innovation. Precision secures it."</i>
+<i style="color:#7F00FF;">"Madness fuels innovation. Precision secures it."</i>
 </p>
