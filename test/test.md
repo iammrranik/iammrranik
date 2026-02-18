@@ -26,21 +26,17 @@ CCNA | DevNet Associate | Network Security
 
 $ status
 Researching. Building. Breaking. Securing.
-```
 
----
-
-```yaml
-profile:
-  name: "Md. Minhaj Rowfun Rabbi Anik"
-  university: "American International University Bangladesh (AIUB)"
-  degree: "BSc in Computer Science & Engineering"
-  interests:
-    - Cybersecurity
-    - Competitive Programming
-    - Secure Systems
-    - IoT Engineering
-  mission: "Madness fuels innovation. Precision secures it."
+$ profile
+name: "Md. Minhaj Rowfun Rabbi Anik"
+university: "American International University Bangladesh (AIUB)"
+degree: "BSc in Computer Science & Engineering"
+interests:
+  - Cybersecurity
+  - Competitive Programming
+  - Secure Systems
+  - IoT Engineering
+mission: "Madness fuels innovation. Precision secures it."
 ```
 
 ---
@@ -55,61 +51,75 @@ Passionate about continuous learning and contributing to innovative, impactful t
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 🔐 Networking & Security
+## 🔐 Networking & Security
 
 Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Network Security • CTF
 
 ---
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python" />
 </p>
 
-C • C++ • Java • C# • Python
+<p align="center">
+  C • C++ • Java • C# • Python
+</p>
 
 ---
 
-### 🌐 Frameworks
+## 🌐 Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,dotnet,spring,django" />
 </p>
 
-React • .NET • Spring Boot • Django
+<p align="center">
+  React • .NET • Spring Boot • Django
+</p>
 
 ---
 
-### 🖥️ Systems
+## 🖥️ Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,windows" />
 </p>
 
-Linux • Bash • Windows
+<p align="center">
+  Linux • Bash • Windows
+</p>
 
 ---
 
-### 🔌 IoT & Embedded Systems
+## 🔌 IoT & Embedded Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white"/>
 </p>
 
-Arduino • ESP32 • Raspberry Pi
+<p align="center">
+  Arduino • ESP32 • Raspberry Pi
+</p>
 
 ---
 
-## 🏆 Competitive Programming
+## 🐍 Contribution Mutation
 
 <p align="center">
-  <a href="https://codeforces.com/profile/iammrranik">
-    <img src="https://img.shields.io/badge/Codeforces-iammrranik-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/iammrranik/iammrranik/output/snake.svg" />
+</p>
+
+---
+
+## 🌧️ Matrix Research Mode
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
 </p>
 
 ---
@@ -127,24 +137,6 @@ Arduino • ESP32 • Raspberry Pi
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammrranik&theme=radical" />
-</p>
-
----
-
-## 🏆 Codeforces Live Dashboard
-
-<p align="center">
-  <a href="https://codeforces.com/profile/iammrranik">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=iammrranik&theme=radical&hide_rank=true" />
-  </a>
-</p>
-
----
-
-## 🌧️ Matrix Research Mode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
 </p>
 
 ---
@@ -183,10 +175,13 @@ Bengali (Native) • English (Professional Working) • Hindi (Limited Working) 
   <a href="https://github.com/iammrranik/">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://codeforces.com/profile/iammrranik">
+    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  Email • LinkedIn • Facebook • GitHub
+  Email • LinkedIn • Facebook • GitHub • Codeforces
 </p>
 
 ---
