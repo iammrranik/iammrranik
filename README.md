@@ -11,10 +11,10 @@
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Development** | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/-Cisco_CCNA-black?style=flat-square&logo=cisco) ![DevNet](https://img.shields.io/badge/-DevNet-black?style=flat-square&logo=cisco) ![Firewall](https://img.shields.io/badge/-Zone--Based_Firewall-black) |
-| **Security** | ![Cryptography](https://img.shields.io/badge/-Cryptography-black) ![CTF](https://img.shields.io/badge/-CTF_Player-black) ![ACL](https://img.shields.io/badge/-ACL-black) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) |
+| **Languages** | ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JS-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TS-black?style=flat-square&logo=typescript) |
+| **Frameworks** | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net) ![Spring](https://img.shields.io/badge/-Springboot-black?style=flat-square&logo=spring-boot) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) |
+| **Networking & Sec** | ![Cisco](https://img.shields.io/badge/-CCNA-black?style=flat-square&logo=cisco) ![DevNet](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=azure-devops) ![Security](https://img.shields.io/badge/-Cisco_Security-black) ![Bash](https://img.shields.io/badge/-Bash/Batch-black?style=flat-square&logo=gnu-bash) |
+| **Tools & OS** | ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira) ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop) |
 
 ---
 
@@ -25,25 +25,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrranik&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2" alt="Top Languages" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammrranik&theme=transparent&hide_border=true&stroke=00d1b2&ring=00d1b2&fire=00d1b2&currStreakLabel=00d1b2" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📜 Certified Expertise
-* [cite_start]**Cisco Certified Network Associate (CCNA):** Enterprise Networking, Security, and Automation[cite: 17].
-* [cite_start]**Cisco Certified Support Technician:** Network Security & IT Essentials[cite: 14, 15].
-* [cite_start]**DevNet Associate:** Infrastructure automation and software development[cite: 16].
+* [cite_start]**CCNA & DevNet Associate:** Enterprise Networking, Security, and Infrastructure Automation[cite: 16, 17].
+* [cite_start]**Network Security Specialist:** Access Control Lists (ACL) and Zone-Based Policy Firewalls[cite: 6, 7].
+* [cite_start]**Competitive Programmer:** Passionate about complex algorithmic problem solving[cite: 22].
 
 ---
 
 ### 🤝 Let's Connect
-I'm actively seeking **Open Source contributions** and **Remote Internships**.
+[cite_start]I'm actively seeking **Open Source contributions** and **Remote Internships** in Software Engineering or Cybersecurity[cite: 26].
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iammrranik)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/iammrranik)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iammrranik@gmail.com)
-
----
-[cite_start]*"Thriving on complex algorithmic challenges."* [cite: 22]
