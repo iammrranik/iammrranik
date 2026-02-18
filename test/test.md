@@ -53,12 +53,6 @@ Passionate about continuous learning and contributing to innovative, impactful t
 
 # 🛠️ Technical Skills
 
-## 🔐 Networking & Security
-
-Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Network Security • CTF
-
----
-
 ## 💻 Programming Languages
 
 <p align="center">
@@ -83,6 +77,19 @@ Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Ne
 
 ---
 
+## 🔌 IoT & Embedded Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white"/>
+</p>
+
+<p align="center">
+  Arduino • Raspberry Pi • ESP32
+</p>
+
+---
+
 ## 🖥️ Systems
 
 <p align="center">
@@ -95,16 +102,13 @@ Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Ne
 
 ---
 
-## 🔌 IoT & Embedded Systems
+## 🔐 Networking & Security
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cisco,pfsense" />
 </p>
 
-<p align="center">
-  Arduino • ESP32 • Raspberry Pi
-</p>
+Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Network Security • CTF
 
 ---
 
@@ -112,14 +116,6 @@ Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Ne
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iammrranik/iammrranik/output/snake.svg" />
-</p>
-
----
-
-## 🌧️ Matrix Research Mode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
 </p>
 
 ---
@@ -150,7 +146,7 @@ Access Control List (ACL) • Zone-Based Policy Firewall • Cryptography • Ne
   <img src="https://img.shields.io/badge/IT%20Essentials-FF00FF?style=for-the-badge"/>
 </p>
 
-CCNA • DevNet Associate • Network Security • IT Essentials
+BSc in Computer Science & Engineering
 
 ---
 
@@ -188,4 +184,12 @@ Bengali (Native) • English (Professional Working) • Hindi (Limited Working) 
 
 <p align="center">
   <b>"Madness fuels innovation. Precision secures it."</b>
+</p>
+
+---
+
+## 🌧️ Matrix Research Mode
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
 </p>
