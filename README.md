@@ -2,7 +2,11 @@
 ### Software & IoT Engineer | CTF Player | CSE Undergraduate @ AIUB
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp3bm9ueXp3bm9ueXp3bm9ueXp3bm9ueXp3bm9ueXp3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXp3bm9ueXp3bm9ueXp3bm9ueXp3bm9ueXp3bm9ueXp3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Tech GIF">
 </p>
 
 ---
@@ -21,14 +25,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammrranik&show_icons=true&theme=radical&hide_border=false" alt="Anik's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrranik&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=iammrranik&show_icons=true&theme=dark&hide_border=false" alt="Anik's Stats" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrranik&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="40%" />
 </p>
 
 ---
 
 ### 📜 Certified Expertise
-* [cite_start]**CCNA & DevNet Associate:** Skilled in Enterprise Networking, Security, and Infrastructure Automation[cite: 16, 17].
+* **CCNA & DevNet Associate:** Skilled in Enterprise Networking, Security, and Infrastructure Automation[cite: 16, 17].
 * [cite_start]**Network Security Specialist:** Expertise in Access Control Lists (ACL), Zone-Based Policy Firewalls, and Cryptography[cite: 6, 7, 8].
 * [cite_start]**Competitive Programmer:** Enthusiastic solver of complex algorithmic problems and active CTF Player[cite: 21, 22].
 
@@ -42,4 +46,4 @@
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iammrranik@gmail.com)
 
 ---
-[cite_start]*"Applying knowledge to create impactful solutions." [cite: 25]*
+[cite_start]*"Applying knowledge to create impactful solutions."* [cite: 25]
