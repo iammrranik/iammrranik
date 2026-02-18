@@ -1,6 +1,6 @@
 <!-- 🌈 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Md.%20Minhaj%20Rowfun%20Rabbi%20Anik&fontSize=50&fontAlignY=35&animation=twinkling&color=0:00F5A0,25:00D9F5,50:7F00FF,75:FF00FF,100:00F5A0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Md.%20Minhaj%20Rowfun%20Rabbi%20Anik&fontSize=40&fontAlignY=35&animation=twinkling&color=0:00F5A0,25:00D9F5,50:7F00FF,75:FF00FF,100:00F5A0" />
 </p>
 
 <h1 align="center">
