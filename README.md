@@ -6,6 +6,13 @@
 
 ---
 
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iammrranik&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Anik's Trophies" />
+</p>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 | Category | Skills & Tools |
@@ -17,19 +24,18 @@
 
 ---
 
-### 📊 GitHub Analytics
-
+### 📈 Activity & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammrranik&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrranik&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrranik&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammrranik&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 📜 Certified Expertise
-* [cite_start]**CCNA & DevNet Associate:** Skilled in Enterprise Networking, Security, and Infrastructure Automation[cite: 16, 17, 24].
-* [cite_start]**Network Security Specialist:** Expertise in Access Control Lists (ACL), Zone-Based Policy Firewalls, and Cryptography[cite: 6, 7, 8].
-* [cite_start]**Competitive Programmer:** Enthusiastic solver of complex algorithmic problems and active CTF Player[cite: 21, 22].
+### 📜 Professional Profile
+* [cite_start]**CCNA & DevNet Associate:** Specialized in Enterprise Networking, Security, and Infrastructure Automation[cite: 16, 17].
+* [cite_start]**Network Security Specialist:** Experienced in Access Control Lists (ACL), Zone-Based Policy Firewalls, and Cryptography[cite: 6, 7, 8].
+* [cite_start]**Competitive Programmer:** Passionate about solving complex algorithmic problems and active CTF Player[cite: 21, 22].
 
 ---
 
@@ -43,4 +49,4 @@
 </p>
 
 ---
-[cite_start]<p align="center"><i>"Applying knowledge to create impactful solutions[cite: 25]."</i></p>
+[cite_start]<p align="center"><i>"Applying knowledge to create impactful solutions." [cite: 25]</i></p>
