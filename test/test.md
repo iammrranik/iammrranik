@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Md.+Minhaj+Rowfun+Rabbi+Anik;Cybersecurity+Researcher;CTF+Player+%7C+Competitive+Programmer;Software+%26+IoT+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Md.+Minhaj+Rowfun+Rabbi+Anik;CTF+Player;Competitive+Programmer;Software+%26+IoT+Engineer" />
 </h1>
 
 <!-- Rainbow Divider -->
@@ -220,10 +220,9 @@ mission: "Madness fuels innovation. Precision secures it."
 </p>
 
 ---
-
 <!-- BIG RAINBOW NEON QUOTE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=2000&color=FF00FF,00F5A0,00D9F5,7F00FF,FFFF00&center=true&width=800&lines=Madness+fuels+innovation.;Precision+secures+it." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=2000&color=FF00FF,00F5A0,00D9F5,7F00FF,FFFF00&center=true&width=800&lines=Madness+fuels+innovation.;Precision+secures+it." />
 </p>
 
 ---
