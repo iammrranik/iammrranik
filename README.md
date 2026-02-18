@@ -76,7 +76,7 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,javascript,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,javascript,typescript,php" />
 </p>
 
 <p align="center">
@@ -86,8 +86,10 @@ mission: "Madness fuels innovation. Precision secures it."
   <span style="color:#00FF00">C#</span> • 
   <span style="color:#00F5A0">Python</span> • 
   <span style="color:#00D9F5">JavaScript</span> • 
+  <span style="color:#1E90FF">TypeScript</span> • 
   <span style="color:#7F00FF">PHP</span>
 </p>
+
 
 
 ---
@@ -95,12 +97,17 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 🌐 Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,spring,django" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,spring,django,bootstrap" />
 </p>
 
 <p align="center">
-  <span style="color:#FF0000">React</span> • <span style="color:#00F5A0">.NET</span> • <span style="color:#00D9F5">Spring Boot</span> • <span style="color:#7F00FF">Django</span>
+  <span style="color:#FF0000">React</span> • 
+  <span style="color:#00F5A0">.NET</span> • 
+  <span style="color:#00D9F5">Spring Boot</span> • 
+  <span style="color:#7F00FF">Django</span> • 
+  <span style="color:#7952B3">Bootstrap</span>
 </p>
+
 
 ---
 
