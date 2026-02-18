@@ -9,6 +9,48 @@
 
 ---
 
+## 🖥️ Initiating Mad Scientist Terminal...
+
+```bash
+$ whoami
+Md. Minhaj Rowfun Rabbi Anik
+
+$ role --current
+Cybersecurity Researcher | Competitive Programmer | Software Engineer
+
+$ specialization --focus
+Secure Systems
+Algorithm Engineering
+Offensive & Defensive Security
+
+$ contact --secure-channel
+Email: iammrranik@gmail.com
+
+$ status
+Researching. Building. Breaking. Securing.
+```
+
+---
+
+```yaml
+mad_scientist_profile:
+  name: "Md. Minhaj Rowfun Rabbi Anik"
+  title: "Cybersecurity Researcher"
+  focus_areas:
+    - Secure Systems
+    - Algorithm Engineering
+    - Cryptography
+    - Network Security
+  competitive_programming:
+    platform: "Codeforces"
+    handle: "iammrranik"
+  github: "https://github.com/iammrranik/"
+  linkedin: "https://www.linkedin.com/in/iammrranik/"
+  mission: "Madness fuels innovation. Precision secures it."
+```
+
+---
+
 <!-- Neon Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:7F00FF&height=3" width="80%"/>
@@ -17,21 +59,16 @@
 ## 👨‍🔬 Mad Scientist Laboratory
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNrazltOXNqdXJna20zYm1reThicmU2enJvY2VnNzc2MTZtcnV5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlPNqHlndb2YHrG/giphy.gif" width="420"/>
+  <img src="https://media3.giphy.com/media/l0HlPNqHlndb2YHrG/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
-  <span style="color:#00F5A0;">⚡ Secure Systems</span> &nbsp;|&nbsp;
-  <span style="color:#00D9F5;">🧠 Algorithm Engineering</span> &nbsp;|&nbsp;
-  <span style="color:#7F00FF;">🔬 Cyber Experiments</span>
+  ⚡ Secure Systems &nbsp;|&nbsp;
+  🧠 Algorithm Engineering &nbsp;|&nbsp;
+  🔬 Cyber Experiments
 </p>
 
 ---
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:FF00FF&height=3" width="80%"/>
-</p>
 
 ## 🏆 Competitive Programming
 
@@ -39,6 +76,24 @@
   <a href="https://codeforces.com/profile/iammrranik">
     <img src="https://img.shields.io/badge/Codeforces-iammrranik-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🏆 Live Achievement Board
+
+<p align="center">
+  <a href="https://codeforces.com/profile/iammrranik">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=iammrranik&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammrranik&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iammrranik&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -60,11 +115,6 @@
 
 ---
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=3" width="80%"/>
-</p>
-
 ## 🐍 Contribution Mutation
 
 <p align="center">
@@ -82,11 +132,7 @@
 </p>
 
 <p align="center">
-  <span style="color:#00F5A0;">C</span> • 
-  <span style="color:#00D9F5;">C++</span> • 
-  <span style="color:#7F00FF;">Java</span> • 
-  <span style="color:#FF00FF;">C#</span> • 
-  <span style="color:#00F5A0;">Python</span>
+  C • C++ • Java • C# • Python
 </p>
 
 ---
@@ -112,7 +158,7 @@
 <p align="center">
   Linux • Bash • Windows  
   <br/><br/>
-  🔐 CCNA | DevNet | Firewalls | Cryptography | CTF
+  🔐 CCNA • DevNet • Firewalls • Cryptography • CTF
 </p>
 
 ---
@@ -121,6 +167,29 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
+</p>
+
+---
+
+## 📡 Connect With The Lab
+
+<p align="center">
+  <a href="mailto:iammrranik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/iammrranik/">
+    <img src="https://img.shields.io/badge/LinkedIn-00D9F5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/iammrranik/">
+    <img src="https://img.shields.io/badge/Facebook-7F00FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/iammrranik/">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  Email • LinkedIn • Facebook • GitHub
 </p>
 
 ---
@@ -134,7 +203,5 @@
 ---
 
 <p align="center">
-  <span style="color:#FF00FF;">
-  "Madness fuels innovation. Precision secures it."
-  </span>
+  <b>"Madness fuels innovation. Precision secures it."</b>
 </p>
