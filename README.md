@@ -20,14 +20,11 @@
 $ whoami
 Md. Minhaj Rowfun Rabbi Anik
 
-$ location
-Dhaka, Bangladesh
-
 $ role
 Software & IoT Engineer | CTF Player | Competitive Programmer
 
 $ certifications
-CCNA | DevNet Associate | Network Security
+CCNA | DevNet Associate | Cisco Network Security | Cisco IT Essentials
 
 $ status
 Researching. Building. Breaking. Securing.
