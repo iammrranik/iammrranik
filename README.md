@@ -33,13 +33,14 @@ $ profile
 university: "American International University Bangladesh (AIUB)"
 degree: "BSc in Computer Science & Engineering"
 interests:
-  - Cybersecurity
+  - IoT Engineering
   - Competitive Programming
   - Secure Systems
-  - IoT Engineering
+  - Cybersecurity
 mission: "Madness fuels innovation. Precision secures it."
-```
 
+```
+<br>
 <!-- Rainbow Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
