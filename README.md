@@ -161,10 +161,7 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 🔐 Networking & Security
 
 <p align="center">
-  🖧 Cisco • 🔥 pfSense
-</p>
-
-<p align="center">
+  🔥 Cisco •
   🛡️ Access Control List (ACL) • 
   🚧 Zone-Based Policy Firewall • 
   🔑 Cryptography • 
