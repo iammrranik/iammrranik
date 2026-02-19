@@ -84,7 +84,7 @@ mission: "Madness fuels innovation. Precision secures it."
   <span style="color:#FFFF00">Java</span> • 
   <span style="color:#00FF00">C#</span> • 
   <span style="color:#00F5A0">Python</span> • 
-  <span style="color:#1E90FF">Java Script</span> • 
+  <span style="color:#1E90FF">JavaScript</span> • 
   <span style="color:#7F00FF">PHP</span>
 </p>
 
