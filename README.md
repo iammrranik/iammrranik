@@ -147,13 +147,26 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 🧰 Development Tools & Collaboration
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,figma,matlab,opencv,photoshop,replit,notion,discord,jira,trello" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,figma,matlab,opencv,ps,replit,notion,discord,stackoverflow" />
+  <br>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 <p align="center">
-  Android Studio • IntelliJ IDEA • VS Code • Visual Studio • 
-  Figma • MATLAB • OpenCV • Photoshop • Replit • Notion • Discord • 
-  Jira • Trello
+  <span style="color:#3DDC84">Android Studio</span> • 
+  <span style="color:#FE315D">IntelliJ</span> • 
+  <span style="color:#007ACC">VS Code</span> • 
+  <span style="color:#5C2D91">Visual Studio</span> • 
+  <span style="color:#F24E1E">Figma</span> • 
+  <span style="color:#ED1C24">MATLAB</span> • 
+  <span style="color:#5C2D91">OpenCV</span> • 
+  <span style="color:#31A8FF">Photoshop</span> • 
+  <span style="color:#F26207">Replit</span> • 
+  <span style="color:#FFFFFF">Notion</span> • 
+  <span style="color:#5865F2">Discord</span> • 
+  <span style="color:#0052CC">Jira</span> • 
+  <span style="color:#0079BF">Trello</span>
 </p>
 
 ---
