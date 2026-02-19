@@ -211,10 +211,28 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-00AEEF?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevNet-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network%20Security-7F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IT%20Essentials-FF00FF?style=for-the-badge"/>
+  <a href="https://www.credly.com/badges/49a9b80a-0087-48b4-be7d-5d812ddbcb01/linked_in_profile">
+    <img src="https://img.shields.io/badge/CCNA-00AEEF?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/e2656452-083c-4e53-94ed-ee4b360d7070/linked_in_profile">
+    <img src="https://img.shields.io/badge/DevNet-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/980db8ad-dae4-4439-8b7f-81b92627c3cf/linked_in_profile">
+    <img src="https://img.shields.io/badge/Network%20Security-7F00FF?style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/b23d131d-568f-4f2e-a104-ce3b509c2790/linked_in_profile">
+    <img src="https://img.shields.io/badge/IT%20Essentials-FF00FF?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  🔗 CCNA Verified Badges:
+  <a href="https://www.credly.com/badges/49a9b80a-0087-48b4-be7d-5d812ddbcb01/linked_in_profile">Badge 1</a> •
+  <a href="https://www.credly.com/badges/ba5a0d7a-fb53-4bc6-86fc-f682b97c2226/linked_in_profile">Badge 2</a> •
+  <a href="https://www.credly.com/badges/b693cf53-bee5-496b-ad37-5569f74f3af3/linked_in_profile">Badge 3</a>
 </p>
 
 <p align="center">
