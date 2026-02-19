@@ -286,7 +286,7 @@ mission: "Madness fuels innovation. Precision secures it."
 
 ---
 
-## 🌧️ Matrix Research Mode
+## 🌧️ Research Mode
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
