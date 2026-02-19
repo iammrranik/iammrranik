@@ -126,11 +126,11 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 🐧 Operating Systems & Security Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,bash,powershell" />
 </p>
 
 <p align="center">
-  Linux • Ubuntu • Kali Linux • Bash • PowerShell
+  Linux • Ubuntu • Kali Linux • Windows • Bash • PowerShell
 </p>
 
 ---
@@ -165,15 +165,15 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 🔐 Networking & Security
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,pfsense" />
+  🖧 Cisco • 🔥 pfSense
 </p>
 
 <p align="center">
-  <span style="color:#00F5A0">Access Control List (ACL)</span> • 
-  <span style="color:#00D9F5">Zone-Based Policy Firewall</span> • 
-  <span style="color:#7F00FF">Cryptography</span> • 
-  <span style="color:#FF00FF">Network Security</span> • 
-  <span style="color:#FF7F00">CTF</span>
+  🛡️ Access Control List (ACL) • 
+  🚧 Zone-Based Policy Firewall • 
+  🔑 Cryptography • 
+  🌐 Network Security • 
+  🚩 CTF
 </p>
 
 <!-- Rainbow Divider -->
