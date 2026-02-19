@@ -123,14 +123,41 @@ mission: "Madness fuels innovation. Precision secures it."
 
 ---
 
-## 🖥️ Systems
+## 🐧 Operating Systems & Security Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,powershell" />
 </p>
 
 <p align="center">
-  <span style="color:#FF7F00">Linux</span> • <span style="color:#FFFF00">Bash</span> • <span style="color:#00FF00">Windows</span>
+  Linux • Ubuntu • Kali Linux • Bash • PowerShell
+</p>
+
+---
+
+## 🌐 Web & Cloud Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,nginx,netlify,vercel,heroku,npm,tailwind,jquery,sqlite" />
+</p>
+
+<p align="center">
+  Firebase • Nginx • Netlify • Vercel • Heroku • npm • 
+  Tailwind CSS • jQuery • SQLite
+</p>
+
+---
+
+## 🧰 Development Tools & Collaboration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,figma,matlab,opencv,photoshop,replit,notion,discord,jira,trello" />
+</p>
+
+<p align="center">
+  Android Studio • IntelliJ IDEA • VS Code • Visual Studio • 
+  Figma • MATLAB • OpenCV • Photoshop • Replit • Notion • Discord • 
+  Jira • Trello
 </p>
 
 ---
