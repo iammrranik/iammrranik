@@ -1,10 +1,10 @@
 <!-- 🌈 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Mad%20the%20Scientist&fontSize=60&fontAlignY=35&animation=twinkling&color=0:00F5A0,25:00D9F5,50:7F00FF,75:FF00FF,100:00F5A0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Md.%20Minhaj%20Rowfun%20Rabbi%20Anik&fontSize=45&fontAlignY=35&animation=twinkling&color=0:00F5A0,25:00D9F5,50:7F00FF,75:FF00FF,100:00F5A0" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Md.+Minhaj+Rowfun+Rabbi+Anik;CTF+Player;Competitive+Programmer;Software+%26+IoT+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=🧩+Problem+Solver;📟+Embedded+Systems+Developer;🚩+CTF+Player;🤖+Automation+Specialist;💻+Competitive+Programmer;🌐+Software+%26+IoT+Engineer" />
 </h1>
 
 <!-- Rainbow Divider -->
@@ -14,7 +14,7 @@
 
 ---
 
-## 🖥️ Initiating Mad Scientist Terminal...
+## 🖥️ Initiating Terminal...
 
 ```bash
 $ whoami
@@ -33,7 +33,6 @@ $ status
 Researching. Building. Breaking. Securing.
 
 $ profile
-name: "Md. Minhaj Rowfun Rabbi Anik"
 university: "American International University Bangladesh (AIUB)"
 degree: "BSc in Computer Science & Engineering"
 interests:
@@ -76,7 +75,7 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,javascript,typescript,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,javascript,php" />
 </p>
 
 <p align="center">
@@ -85,8 +84,7 @@ mission: "Madness fuels innovation. Precision secures it."
   <span style="color:#FFFF00">Java</span> • 
   <span style="color:#00FF00">C#</span> • 
   <span style="color:#00F5A0">Python</span> • 
-  <span style="color:#00D9F5">JavaScript</span> • 
-  <span style="color:#1E90FF">TypeScript</span> • 
+  <span style="color:#1E90FF">JavaScript</span> • 
   <span style="color:#7F00FF">PHP</span>
 </p>
 
@@ -124,14 +122,41 @@ mission: "Madness fuels innovation. Precision secures it."
 
 ---
 
-## 🖥️ Systems
+## 🐧 Operating Systems & Security Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,bash,powershell" />
 </p>
 
 <p align="center">
-  <span style="color:#FF7F00">Linux</span> • <span style="color:#FFFF00">Bash</span> • <span style="color:#00FF00">Windows</span>
+  Linux • Ubuntu • Kali Linux • Windows • Bash • PowerShell
+</p>
+
+---
+
+## 🌐 Web & Cloud Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,nginx,netlify,vercel,heroku,npm,tailwind,jquery,sqlite" />
+</p>
+
+<p align="center">
+  Firebase • Nginx • Netlify • Vercel • Heroku • npm • 
+  Tailwind CSS • jQuery • SQLite
+</p>
+
+---
+
+## 🧰 Development Tools & Collaboration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,figma,matlab,opencv,photoshop,replit,notion,discord,jira,trello" />
+</p>
+
+<p align="center">
+  Android Studio • IntelliJ IDEA • VS Code • Visual Studio • 
+  Figma • MATLAB • OpenCV • Photoshop • Replit • Notion • Discord • 
+  Jira • Trello
 </p>
 
 ---
@@ -139,15 +164,15 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 🔐 Networking & Security
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,pfsense" />
+  🖧 Cisco • 🔥 pfSense
 </p>
 
 <p align="center">
-  <span style="color:#00F5A0">Access Control List (ACL)</span> • 
-  <span style="color:#00D9F5">Zone-Based Policy Firewall</span> • 
-  <span style="color:#7F00FF">Cryptography</span> • 
-  <span style="color:#FF00FF">Network Security</span> • 
-  <span style="color:#FF7F00">CTF</span>
+  🛡️ Access Control List (ACL) • 
+  🚧 Zone-Based Policy Firewall • 
+  🔑 Cryptography • 
+  🌐 Network Security • 
+  🚩 CTF
 </p>
 
 <!-- Rainbow Divider -->
@@ -186,10 +211,28 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-00AEEF?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevNet-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network%20Security-7F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IT%20Essentials-FF00FF?style=for-the-badge"/>
+  <a href="https://www.credly.com/badges/49a9b80a-0087-48b4-be7d-5d812ddbcb01/linked_in_profile">
+    <img src="https://img.shields.io/badge/CCNA-00AEEF?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/e2656452-083c-4e53-94ed-ee4b360d7070/linked_in_profile">
+    <img src="https://img.shields.io/badge/DevNet-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/980db8ad-dae4-4439-8b7f-81b92627c3cf/linked_in_profile">
+    <img src="https://img.shields.io/badge/Network%20Security-7F00FF?style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/b23d131d-568f-4f2e-a104-ce3b509c2790/linked_in_profile">
+    <img src="https://img.shields.io/badge/IT%20Essentials-FF00FF?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  🔗 CCNA Verified Badges:
+  <a href="https://www.credly.com/badges/49a9b80a-0087-48b4-be7d-5d812ddbcb01/linked_in_profile">Badge 1</a> •
+  <a href="https://www.credly.com/badges/ba5a0d7a-fb53-4bc6-86fc-f682b97c2226/linked_in_profile">Badge 2</a> •
+  <a href="https://www.credly.com/badges/b693cf53-bee5-496b-ad37-5569f74f3af3/linked_in_profile">Badge 3</a>
 </p>
 
 <p align="center">
