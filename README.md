@@ -1,3 +1,12 @@
+
+---
+
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
+</p>
+<br><br>
+
 <!-- 🌈 Animated Gradient Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Md.%20Minhaj%20Rowfun%20Rabbi%20Anik&fontSize=45&fontAlignY=35&animation=twinkling&color=0:00F5A0,25:00D9F5,50:7F00FF,75:FF00FF,100:00F5A0" />
@@ -68,6 +77,8 @@ mission: "Madness fuels innovation. Precision secures it."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
 </p>
 
+---
+
 # 🛠️ Technical Skills
 
 ## 💻 Programming Languages
@@ -87,9 +98,6 @@ mission: "Madness fuels innovation. Precision secures it."
 </p>
 
 
-
----
-
 ## 🌐 Frameworks
 
 <p align="center">
@@ -105,8 +113,6 @@ mission: "Madness fuels innovation. Precision secures it."
 </p>
 
 
----
-
 ## 🔌 IoT & Embedded Systems
 
 <p align="center">
@@ -118,7 +124,6 @@ mission: "Madness fuels innovation. Precision secures it."
   <span style="color:#FF0000">Arduino</span> • <span style="color:#00F5A0">Raspberry Pi</span> • <span style="color:#00D9F5">ESP32</span>
 </p>
 
----
 
 ## 🐧 Operating Systems & Security Tools
 
@@ -130,7 +135,6 @@ mission: "Madness fuels innovation. Precision secures it."
   Linux • Ubuntu • Kali Linux • Windows • Bash • PowerShell
 </p>
 
----
 
 ## 🌐 Web & Cloud Technologies
 
@@ -143,7 +147,6 @@ mission: "Madness fuels innovation. Precision secures it."
   Tailwind CSS • jQuery • SQLite
 </p>
 
----
 
 ## 🧰 Development Tools & Collaboration
 
@@ -166,7 +169,6 @@ mission: "Madness fuels innovation. Precision secures it."
   <span style="color:#F48024">Stack Overflow</span>
 </p>
 
----
 
 ## 🔐 Networking & Security
 
@@ -183,13 +185,14 @@ mission: "Madness fuels innovation. Precision secures it."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
 </p>
 
-## 🐍 Contribution Mutation
+---
+
+## 🐍 Github Contribution Mutation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iammrranik/iammrranik/output/snake.svg" />
 </p>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -210,6 +213,8 @@ mission: "Madness fuels innovation. Precision secures it."
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
 </p>
+
+---
 
 ## 📜 Certifications
 
@@ -247,6 +252,8 @@ mission: "Madness fuels innovation. Precision secures it."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
 </p>
 
+---
+
 ## 🌍 Languages
 
 <p align="center">
@@ -260,6 +267,8 @@ mission: "Madness fuels innovation. Precision secures it."
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
 </p>
+
+---
 
 ## 📡 Connect With The Lab
 
@@ -311,3 +320,6 @@ mission: "Madness fuels innovation. Precision secures it."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
 </p>
 <br>
+
+---
+
