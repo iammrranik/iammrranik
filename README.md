@@ -263,7 +263,7 @@ mission: "Madness fuels innovation. Precision secures it."
 
 ---
 
-## 📡 Connect With The Lab
+## 📡 Connect With Me
 
 <p align="center">
   <a href="mailto:iammrranik@gmail.com">
