@@ -296,3 +296,4 @@ mission: "Madness fuels innovation. Precision secures it."
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
 </p>
 <br>
+<br>
