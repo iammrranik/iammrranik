@@ -241,7 +241,10 @@ mission: "Madness fuels innovation. Precision secures it."
   Cisco CCNA • Cisco DevNet • Cisco Network Security • Cisco IT Essentials
 </p>
 
----
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
+</p>
 
 ## 🌍 Languages
 
@@ -252,7 +255,10 @@ mission: "Madness fuels innovation. Precision secures it."
   <span style="color:#7F00FF">Arabic</span> (Elementary)
 </p>
 
----
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
+</p>
 
 ## 📡 Connect With The Lab
 
@@ -278,15 +284,21 @@ mission: "Madness fuels innovation. Precision secures it."
   Email • LinkedIn • Facebook • GitHub • Codeforces
 </p>
 
----
-<!-- BIG RAINBOW NEON QUOTE -->
+<!-- Rainbow Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=FF00FF,00F5A0,00D9F5,7F00FF,FFFF00&center=true&width=800&lines=Madness+fuels+innovation.;Precision+secures+it." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=4" width="80%"/>
 </p>
 
 ---
 
 ## 🌧️ Research Mode
+
+<!-- BIG RAINBOW NEON QUOTE -->
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=FF00FF,00F5A0,00D9F5,7F00FF,FFFF00&center=true&width=800&lines=Madness+fuels+innovation.;Precision+secures+it." />
+</p>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
