@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=iammrranik&label=VISITOR_COUNT&color=FF8C00&style=for-the-badge" alt="Visitor Count" />
 </p>
 
-## 🖥️ Initiating Terminal...
+## 🖥️ Initiating Terminal ...
 
 ```bash
 $ whoami
@@ -149,7 +149,7 @@ mission: "Madness fuels innovation. Precision secures it."
 ## 🧰 Development Tools & Collaboration
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,figma,matlab,opencv,ps,replit,notion,discord,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,figma,matlab,opencv,replit,notion,discord,stackoverflow" />
 </p>
 
 <p align="center">
@@ -160,11 +160,10 @@ mission: "Madness fuels innovation. Precision secures it."
   <span style="color:#F24E1E">Figma</span> • 
   <span style="color:#ED1C24">MATLAB</span> • 
   <span style="color:#5C2D91">OpenCV</span> • 
-  <span style="color:#31A8FF">Photoshop</span> • 
   <span style="color:#F26207">Replit</span> • 
   <span style="color:#FFFFFF">Notion</span> • 
   <span style="color:#5865F2">Discord</span> • 
-  <span style="color:#F48024">Stack Overflow</span>
+  <span style="color:#F48024">StackOverflow</span>
 </p>
 
 
