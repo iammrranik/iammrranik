@@ -2,9 +2,6 @@
 
 <!-- 🌈 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Md.%20Minhaj%20Rowfun%20Rabbi%20Anik&fontSize=45&fontAlignY=35&animation=twinkling&color=0:00F5A0,25:00D9F5,50:7F00FF,75:FF00FF,100:00F5A0" />
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF7F00,50:FFFF00,75:00FF00,100:0000FF&height=240&section=header&text=Md.%20Minhaj%20Rowfun%20Rabbi%20Anik&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </p>
 
