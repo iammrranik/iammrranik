@@ -28,7 +28,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, rgba(6, 182, 212, 0.25), rgba(168, 85, 247, 0.35)), url('Pictures/Formal/IMG_2229.JPG') center/cover;
+  background: linear-gradient(135deg, rgba(6, 182, 212, 0.25), rgba(168, 85, 247, 0.35)), url('Pictures/Formal/IMG_2229.webp') center/cover;
 }
 
 .video-overlay {
