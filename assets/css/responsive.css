@@ -95,7 +95,7 @@
     gap: 40px;
   }
 
-  /* Hero stacked */
+  /* Hero stacked — text first, photo below */
   .hero {
     padding-top: 120px;
     padding-bottom: 60px;
@@ -104,11 +104,11 @@
 
   .hero-content {
     text-align: center;
-    order: 1;
+    order: 0;
   }
 
   .hero-image-wrapper {
-    order: 0;
+    order: 1;
     max-width: 320px;
     margin: 0 auto;
   }
@@ -116,6 +116,21 @@
   .hero-image-card {
     width: 100%;
     height: 340px;
+  }
+
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .skills-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .exp-card {
+    grid-template-columns: 1fr;
+    gap: 18px;
   }
 
   .hero-title {
@@ -167,6 +182,7 @@
 @media (max-width: 768px) {
   html {
     font-size: 15px;
+    scroll-padding-top: 96px;
   }
 
   /* Container */
@@ -176,11 +192,11 @@
 
   /* Sections */
   .section {
-    padding: 60px 0;
+    padding: 52px 0;
   }
 
   .section-header {
-    margin-bottom: 36px;
+    margin-bottom: 28px;
   }
 
   .section-title {
@@ -188,78 +204,200 @@
   }
 
   .section-subtitle {
-    font-size: 1rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
   }
 
   .section-tag {
-    font-size: 0.78rem;
-    padding: 5px 14px;
+    font-size: 0.72rem;
+    padding: 5px 12px;
+    letter-spacing: 1px;
   }
 
-  /* Navbar mobile */
+  /* Navbar mobile — compact to avoid crowding */
   .navbar {
-    top: 12px;
-    width: 95%;
-    padding: 6px 14px;
+    top: 10px;
+    width: calc(100% - 20px);
+    padding: 5px 10px;
   }
 
   .logo-img {
-    width: 46px;
-    height: 46px;
+    width: 42px;
+    height: 42px;
+  }
+
+  .nav-toggle-btn {
+    display: none;
+  }
+
+  .theme-btn {
+    padding: 6px 9px;
+    font-size: 0.78rem;
   }
 
   .nav-toggle-btn span {
-    display: none; /* Hide "Hide" text, keep icon */
+    display: none;
   }
 
-  /* Hero */
+  /* Hero — text first, compact spacing */
   .hero {
-    padding-top: 100px;
+    padding-top: 92px;
+    padding-bottom: 36px;
+  }
+
+  .hero-grid {
+    gap: 28px;
+  }
+
+  .hero-image-wrapper {
+    max-width: 240px;
+  }
+
+  .hero-image-card {
+    height: 290px;
+  }
+
+  .hero-card-glow {
+    inset: -8px;
+    filter: blur(18px);
   }
 
   .hero-title {
-    font-size: 2.15rem;
+    font-size: 2rem;
+    margin-bottom: 14px;
   }
 
   .hero-subtitle {
-    font-size: 1rem;
+    font-size: 0.92rem;
+    margin-bottom: 14px;
   }
 
   .hero-description {
-    font-size: 0.98rem;
+    font-size: 0.92rem;
+    line-height: 1.6;
+    margin-bottom: 22px;
   }
 
   .hero-badge {
-    font-size: 0.78rem;
-    padding: 6px 14px;
+    font-size: 0.72rem;
+    padding: 5px 12px;
+    line-height: 1.45;
+    margin-bottom: 16px;
   }
 
   /* Stack hero action buttons vertically */
   .hero-actions {
     flex-direction: column;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
   }
 
   .hero-actions .btn {
     width: 100%;
     max-width: 300px;
     justify-content: center;
+    padding: 12px 20px;
   }
 
-  /* Stats: 2×2 grid */
+  /* Stats: 2×2 grid, tighter */
   .hero-quick-stats {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 18px;
+    gap: 14px;
     width: 100%;
     max-width: 280px;
+    margin-top: 24px;
+    padding-top: 18px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .stat-number {
-    font-size: 1.7rem;
+    font-size: 1.55rem;
+  }
+
+  .stat-label {
+    font-size: 0.72rem;
+  }
+
+  /* About cards — single column, compact */
+  .about-grid {
+    gap: 16px;
+  }
+
+  .about-grid .glass-card {
+    padding: 18px 16px;
+  }
+
+  .about-grid .card-icon {
+    width: 40px;
+    height: 40px;
+    font-size: 1.15rem;
+    margin-bottom: 10px;
+  }
+
+  .about-grid .card-title {
+    font-size: 1.12rem;
+    margin-bottom: 8px;
+  }
+
+  .about-grid .card-text {
+    font-size: 0.9rem;
+    line-height: 1.55;
+  }
+
+  .about-grid .strengths-list {
+    gap: 8px;
+    margin-top: 10px;
+  }
+
+  .about-grid .strengths-list li {
+    font-size: 0.86rem;
+    gap: 8px;
+  }
+
+  /* Skills grid */
+  .skills-grid {
+    gap: 14px;
+  }
+
+  .skills-grid .glass-card {
+    padding: 16px 14px;
+  }
+
+  .skills-card-title {
+    font-size: 1rem;
+    margin-bottom: 12px;
+  }
+
+  .skill-tag {
+    padding: 6px 12px;
+    font-size: 0.82rem;
+  }
+
+  /* Experience cards — stacked layout */
+  .exp-card {
+    gap: 14px;
+  }
+
+  .exp-card-thumb {
+    height: 140px;
+    margin-top: 10px;
+  }
+
+  /* Timeline — compact on mobile */
+  .timeline-content.glass-card {
+    padding: 18px 16px;
+  }
+
+  .timeline-content .card-title {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+  }
+
+  .timeline-content .card-text {
+    font-size: 0.9rem;
+    line-height: 1.55;
   }
 
   /* Projects */
@@ -348,6 +486,7 @@
 @media (max-width: 480px) {
   html {
     font-size: 14px;
+    scroll-padding-top: 88px;
   }
 
   .container {
@@ -355,7 +494,11 @@
   }
 
   .section {
-    padding: 50px 0;
+    padding: 44px 0;
+  }
+
+  .section-header {
+    margin-bottom: 24px;
   }
 
   .section-title {
@@ -363,38 +506,90 @@
     letter-spacing: -0.01em;
   }
 
+  .section-subtitle {
+    font-size: 0.88rem;
+  }
+
   /* Navbar */
   .navbar {
-    padding: 5px 10px;
+    top: 8px;
+    width: calc(100% - 16px);
+    padding: 4px 8px;
   }
 
   .logo-img {
-    width: 40px;
-    height: 40px;
+    width: 38px;
+    height: 38px;
+  }
+
+  .mobile-nav-toggle {
+    font-size: 1.25rem;
+  }
+
+  .mobile-nav-menu {
+    top: 68px;
+    left: 3%;
+    right: 3%;
+    padding: 18px;
+    gap: 12px;
   }
 
   /* Hero */
+  .hero {
+    padding-top: 84px;
+    padding-bottom: 28px;
+  }
+
+  .hero-grid {
+    gap: 22px;
+  }
+
   .hero-title {
-    font-size: 1.85rem;
+    font-size: 1.72rem;
+  }
+
+  .hero-image-wrapper {
+    max-width: 210px;
   }
 
   .hero-image-card {
-    height: 280px;
+    height: 250px;
+  }
+
+  .hero-badge {
+    font-size: 0.68rem;
+    padding: 4px 10px;
   }
 
   .hero-quick-stats {
-    max-width: 240px;
-    gap: 14px;
+    max-width: 100%;
+    gap: 10px;
+    margin-top: 20px;
+    padding-top: 14px;
   }
 
   .stat-number {
-    font-size: 1.5rem;
+    font-size: 1.35rem;
   }
 
   /* Buttons */
   .btn {
-    padding: 12px 20px;
-    font-size: 0.88rem;
+    padding: 11px 18px;
+    font-size: 0.86rem;
+  }
+
+  /* About cards */
+  .about-grid .glass-card {
+    padding: 16px 14px;
+  }
+
+  .about-grid .card-title {
+    font-size: 1.05rem;
+  }
+
+  .about-grid .card-text,
+  .about-grid .strengths-list li {
+    font-size: 0.84rem;
   }
 
   /* Gallery */
@@ -491,7 +686,7 @@
   }
 
   .mobile-nav-menu {
-    top: 75px;
+    top: 62px;
     left: 3%;
     right: 3%;
   }
