@@ -1,0 +1,104 @@
+/* ==========================================================================
+   INTERACTIVE MOUSE SPOTLIGHT & CUSTOM GLOWING CURSOR STYLES
+   ========================================================================== */
+
+/* Fullscreen Background Spotlight Glow */
+.spotlight-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  background: var(--gradient-glow);
+  transition: background 0.08s ease;
+}
+
+.noise-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Default system cursor pointer restored globally */
+body {
+  cursor: auto;
+}
+
+a, button, input, textarea, select, .project-card, .glass-card, .gallery-item, .filter-btn, .theme-btn, .photo-thumb-btn, .skill-tag {
+  cursor: pointer;
+}
+
+/* Custom Interactive Follower Cursor Ring (Floats behind normal cursor) */
+.custom-cursor-follower {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 36px;
+  height: 36px;
+  border: 1.5px solid var(--accent-cyan);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9998;
+  transform: translate(-50%, -50%);
+  transition: transform 0.15s ease-out, width 0.2s ease, height 0.2s ease, border-color var(--transition-fast);
+  background: rgba(6, 182, 212, 0.06);
+  box-shadow: 0 0 12px rgba(6, 182, 212, 0.25);
+}
+
+/* Cursor Hover Enlarge State */
+body.cursor-hover .custom-cursor-follower {
+  width: 52px;
+  height: 52px;
+  border-color: var(--accent-purple);
+  background: rgba(168, 85, 247, 0.1);
+  box-shadow: 0 0 18px rgba(168, 85, 247, 0.35);
+}
+
+/* Click Ripple Wave Effect on Interactive Elements (Theme Reactive Colors) */
+.click-ripple {
+  position: fixed;
+  border-radius: 50%;
+  border: 2px solid var(--accent-cyan);
+  background: rgba(6, 182, 212, 0.3);
+  box-shadow: 0 0 20px var(--accent-cyan);
+  transform: translate(-50%, -50%) scale(0.2);
+  animation: rippleAnimation 0.55s cubic-bezier(0.1, 0.8, 0.3, 1) forwards;
+  pointer-events: none;
+  z-index: 99999;
+}
+
+[data-theme="colourful"] .click-ripple {
+  border-color: #ec4899;
+  background: rgba(236, 72, 153, 0.35);
+  box-shadow: 0 0 25px #ec4899;
+}
+
+[data-theme="light"] .click-ripple {
+  border-color: #2563eb;
+  background: rgba(37, 99, 235, 0.3);
+  box-shadow: 0 0 20px #2563eb;
+}
+
+@keyframes rippleAnimation {
+  0% {
+    transform: translate(-50%, -50%) scale(0.2);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(3.5);
+    opacity: 0;
+  }
+}
+
+/* Lightbox Modal active state */
+body.modal-open .custom-cursor-follower {
+  display: none !important;
+}
